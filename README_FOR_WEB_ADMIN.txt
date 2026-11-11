@@ -5,11 +5,12 @@ Website package for www.sritcbe.ac.in/hive
 WHAT IS INSIDE
   index.html               Home: 3D hero, about, vision/mission, what HIVE offers,
                            products (TRL flip cards), IIC star rating, ecosystem,
-                           achievements, publications, gallery, contact
+                           achievements, publications, gallery, team, contact
   industry-connect.html    Industry Connect: content of the "Intelligent Systems –
                            AI Innovation Showcase" tri-fold brochure (15 AI projects,
                            services, engagement process, contact person, QR)
   publications.html        3D book library with filters, plus View / Download for every book
+  innovation-ambassadors.html  All IIC Innovation Ambassadors (faculty A–Z, search, student tab)
   downloads/               9 PDFs (books, annual report, IIC records, brochure)
   assets/css/hive.css      Theme: Roboto, SRIT green #02775A, gold #C8A736
   assets/js/hive.js        Animations: scroll reveal, counters, 3D tilt, flip, lightbox
